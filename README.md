@@ -68,30 +68,6 @@
   <img src="doc/images/system.png" width="49%" />
   <img src="doc/images/system2.png" width="49%" />
 </p>
-
-```
-
-[센서 허브] STM32F411RE
- ├─ 사운드 센서 (AO)
- ├─ 진동 센서 (DO)
- ├─ 불꽃 센서 (DO)
- └─ 가스 센서 (AO)
-      │
-      │ UART
-      ▼
-[액추에이터 노드] Arduino
- ├─ I2C LCD
- ├─ 부저 / EZ 팬
- ├─ Bluetooth (HC-06)
- └─ Wi-Fi 모듈 (ESP8266)
-      │
-      │ Wi-Fi (MQTT/HTTP)
-      ▼
-[서버] Raspberry Pi
- ├─ SQLite / MySQL DB
- └─ 웹 대시보드 (Flask / Grafana)
-```
-
 ---
 
 ## 📊 통신 구조
