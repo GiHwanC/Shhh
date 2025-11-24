@@ -68,6 +68,7 @@
   <img src="doc/images/system.png" width="49%" />
   <img src="doc/images/system2.png" width="49%" />
 </p>
+
 ---
 
 ## 📊 통신 구조
