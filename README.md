@@ -64,12 +64,12 @@
 ---
 
 ## 🧱 시스템 구성도
-
-```
 <p align="center">
   <img src="doc/images/system.png" width="49%" />
   <img src="doc/images/system2.png" width="49%" />
 </p>
+
+```
 
 [센서 허브] STM32F411RE
  ├─ 사운드 센서 (AO)
