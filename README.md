@@ -173,9 +173,6 @@
  ├─ ...
 /arduino/
  └─ mini_project.ino
-/server/
- ├─ mqtt_subscriber.py
- └─ flask_dashboard.py
 /docs/
  └─ 발표자료_쉿!.pptx
 ```
