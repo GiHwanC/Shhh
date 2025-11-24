@@ -67,8 +67,8 @@
 
 ```
 <p align="center">
-  <img src="Shhh/doc/images/system.png" width="49%" />
-  <img src="Shhh/doc/images/system2.png" width="49%" />
+  <img src="doc/images/system.png" width="49%" />
+  <img src="doc/images/system2.png" width="49%" />
 </p>
 
 [센서 허브] STM32F411RE
