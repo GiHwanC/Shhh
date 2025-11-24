@@ -1,5 +1,5 @@
-<img width="1912" height="1076" alt="image" src="https://github.com/user-attachments/assets/ca77c85e-92e6-43d4-9e7d-5f7405368f10" />
-# 💤 Shhh! (쉿!)
+
+## 💤 Shhh! (쉿!)
 
 원룸·고시원 소음·안전 모니터링 시스템
 
@@ -66,6 +66,10 @@
 ## 🧱 시스템 구성도
 
 ```
+<p align="center">
+  <img src="Shhh/doc/images/system.png" width="49%" />
+  <img src="Shhh/doc/images/system2.png" width="49%" />
+</p>
 
 [센서 허브] STM32F411RE
  ├─ 사운드 센서 (AO)
